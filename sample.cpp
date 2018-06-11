@@ -5,6 +5,7 @@ int main(){
     cout << "hello world" << endl;
     cout << "enter your name" << endl;
     cin >> name;
-    cout << endl; 
+    cout << endl;
+    //cddsds; 
     return 0;
 }

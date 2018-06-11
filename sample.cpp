@@ -6,6 +6,6 @@ int main(){
     cout << "enter your name" << endl;
     cin >> name;
     cout << endl;
-    //cddsds; 
-    return 0;
+    //cddsds;
+    return 0; 
 }
